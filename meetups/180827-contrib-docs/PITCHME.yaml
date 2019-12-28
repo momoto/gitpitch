@@ -1,0 +1,16 @@
+theme : black
+theme-override : meetups/180827-contrib-docs/assets/custom.css
+layout : center-left
+# logo : assets/images/logo.png
+# logo-position : top-right
+transition : fade
+code-line-numbers : true
+published : true
+loop : false
+rtl : true
+controls-layout : edges
+print-fragments : true
+mousewheel : true
+remote-control : true
+charts : false
+# footnote : ""
