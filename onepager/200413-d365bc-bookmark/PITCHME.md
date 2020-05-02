@@ -1,5 +1,5 @@
 
-@snap[west text-04 span-50]
+@snap[west text-02 span-50 text-left]
 - Dynamics 365 Blog .. Microsoft Vice President と BC 製品チームによる公式情報
 - https://cloudblogs.microsoft.com/dynamics365/product/business-central/
 - Release plans .. D365 (CE/FO/BC 含む) と Power platform のリリースプラン
@@ -9,11 +9,14 @@
 - https://aka.ms/dynamics365releaseplan
 - https://aka.ms/bclastminorupdate
 - https://aka.ms/bcupdates
-- Business Application Summit .. D365最大級公式イベントのセッション動画
-- https://aka.ms/mbas2019DYN
+- [https://aka.ms/mbas2019DYN]
+- [mbs.microsoft.com/customersource/Global/365Business]
+
+[https://aka.ms/mbas2019DYN]: https://aka.ms/mbas2019DYN "Business Application Summit .. D365最大級公式イベントのセッション動画"
+[mbs.microsoft.com/customersource/Global/365Business]: https://mbs.microsoft.com/customersource/Global/365Business "Customer Source .. オンプレミス版のインストーラーを取得できる"
 @snapend
 
-@snap[east text-04 span-50]
+@snap[east text-02 span-50 text-right]
 Microsoft Partner Community .. パートナー向けフォーラム（新）
 https://www.microsoftpartnercommunity.com/
 Yammer Network .. パートナー向けフォーラム（旧）上の MPC へ移行中
