@@ -1,12 +1,12 @@
 
 @snap[west text-03 span-50 text-left]
 
-- [Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/product/business-central/ "Microsoft Vice President と BC 製品チームによる公式情報")
+- **Official updates**
+- [Dynamics 365 Blog][101]
 - [Product updates](https://aka.ms/Dynamics365ReleaseOverview "D365 最新リリースの概要情報")
 - [Release plans](https://aka.ms/businessappsreleasenotes "D365 (CE/FO/BC 含む) と Power platform のリリースプラン")
 - [Latest release plan](https://aka.ms/dynamics365releaseplan)
-- [Last minor udpate for Business Central][0]
-- https://aka.ms/bcupdates
+- [aka.ms/bclastminorupdate][0]
 - [https://aka.ms/mbas2019DYN](https://aka.ms/mbas2019DYN "Business Application Summit .. D365最大級公式イベントのセッション動画")
 - [Customer Source](https://mbs.microsoft.com/customersource/Global/365Business "Customer Source .. オンプレミス版のインストーラーを取得できる")
 - Microsoft 365 admin center .. M365 と D365 の障害情報/変更情報/問合せ管理
@@ -22,6 +22,8 @@
 - **Learn**
 - Microsoft Docs .. ビジネスプロセス情報とITプロ向けコンテンツがある
 - https://docs.microsoft.com/dynamics365/business-central/
+- https://aka.ms/bcupdates
+- https://aka.ms/bcproductivity
 - Microsoft Learn .. 初級/中級/上級レベルごとのラーニングパスがある
 - https://aka.ms/bclearn
 - D365 Trials .. トライアル版を取得できる。O365組織アカウントが別途必要
@@ -31,63 +33,63 @@
 - https://developer.microsoft.com/en-us/store/register
 - http://aka.ms/BCSandboxAzure
 - http://aka.ms/BCSandboxLocal
-Microsoft 365 admin center .. M365 と D365 の障害情報/変更情報/問合せ管理
-https://admin.microsoft.com/Adminportal/Home#/MessageCenter
-Lifecycle Services .. FO のデプロイ/アップデート/問合せ管理。現時点 FO のみ
-https://lcs.dynamics.com/v2
-Ideas .. 新しい機能のアイデアの提案と投票ができる
-https://aka.ms/bcideas
-https://aka.ms/businesscentralideas
-https://aka.ms/Dynamics365BusinessCentralits
-D365 Bounty Program .. バグを報告して深刻度に応じて報奨金がもらえる制度
-https://www.microsoft.com/msrc/bounty-dynamics
+- **Support**
+- Microsoft 365 admin center .. M365 と D365 の障害情報/変更情報/問合せ管理
+- https://admin.microsoft.com/Adminportal/Home#/MessageCenter
+- Lifecycle Services .. FO のデプロイ/アップデート/問合せ管理。現時点 FO のみ
+- https://lcs.dynamics.com/v2
+- Ideas .. 新しい機能のアイデアの提案と投票ができる
+- https://aka.ms/bcideas
+- https://aka.ms/businesscentralideas
+- https://aka.ms/Dynamics365BusinessCentralits
+- D365 Bounty Program .. バグを報告して深刻度に応じて報奨金がもらえる制度
+- https://www.microsoft.com/msrc/bounty-dynamics
 
 @snapend
 
+[101]: https://cloudblogs.microsoft.com/dynamics365/product/business-central/ "Microsoft Vice President と BC 製品チームによる公式情報"
 [0]: https://aka.ms/bclastminorupdate "Last minor udpate for Business Central"
 
 @snap[east text-03 span-50 text-left]
 
 - **Forums**
 - Microsoft Partner Community .. パートナー向けフォーラム（新）
-https://www.microsoftpartnercommunity.com/
-Yammer Network .. パートナー向けフォーラム（旧）上の MPC へ移行中
-https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/
-https://www.yammer.com/atscrm2014/
-Microsoft Partner dashboard .. パートナー向けダッシュボード
-https://partner.microsoft.com/dashboard/
-User community .. ユーザー向けフォーラムとユーザー投稿のブログ
-https://aka.ms/mbasppc .. powerusers.microsoft.com
-https://aka.ms/mbasd365c .. community.dynamics.com
-https://community.dynamics.com/business
-https://community.dynamics.com/business/f
-YouTube .. BC 動画が整理されている。現時点BC専用のYouTubeチャンネルがない
-https://community.dynamics.com/business/b/dynamics-365-business-central-video-blog
-Twitter hashtags .. BC公式アカウント、MS職員、BCユーザーのつぶやき
-https://twitter.com/hashtag/MSDyn365BC
-https://twitter.com/hashtag/BCALhelp
-App Source .. ISV の拡張機能が公開されている。PBC や SPS もここ
-https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central
-Docker .. BC のビルドごとのコンテナが公開されている
-https://hub.docker.com/_/microsoft-businesscentral-sandbox
-https://hub.docker.com/_/microsoft-businesscentral-onprem
-GitHub .. ALコンパイラと開発ツールに関する開発者向けフォーラム
-https://github.com/Microsoft/AL/issues
-https://github.com/Microsoft/ALAppExtensions/issues
-https://github.com/Microsoft/BCTech/
-https://github.com/MicrosoftDocs/dynamics365smb-docs
-https://github.com/MicrosoftDocs/dynamics365smb-devitpro-pb
-https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center
-https://support.microsoft.com/lifecycle/search?alpha=business%20central
-
-https://marketplace.visualstudio.com/vscode
-https://aka.ms/GetStartedWithApps
-https://aka.ms/BusinessCentralApps
-https://aka.ms/BusinessCentralAddOnApps
-https://aka.ms/BusinessCentralConnectApps
-https://aka.ms/BusinessCentralEmbedApps
-https://aka.ms/BusinessCentralLocalizationApps
-
-* https://cdx.transform.microsoft.com/experiences
+- https://www.microsoftpartnercommunity.com/
+- Yammer Network .. パートナー向けフォーラム（旧）上の MPC へ移行中
+- https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/
+- https://www.yammer.com/atscrm2014/
+- Microsoft Partner dashboard .. パートナー向けダッシュボード
+- https://partner.microsoft.com/dashboard/
+- User community .. ユーザー向けフォーラムとユーザー投稿のブログ
+- https://aka.ms/mbasppc .. powerusers.microsoft.com
+- https://aka.ms/mbasd365c .. community.dynamics.com
+- https://community.dynamics.com/business
+- https://community.dynamics.com/business/f
+- YouTube .. BC 動画が整理されている。現時点BC専用のYouTubeチャンネルがない
+- https://community.dynamics.com/business/b/dynamics-365-business-central-video-blog
+- Twitter hashtags .. BC公式アカウント、MS職員、BCユーザーのつぶやき
+- https://twitter.com/hashtag/MSDyn365BC
+- https://twitter.com/hashtag/BCALhelp
+- App Source .. ISV の拡張機能が公開されている。PBC や SPS もここ
+- https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central
+- Docker .. BC のビルドごとのコンテナが公開されている
+- https://hub.docker.com/_/microsoft-businesscentral-sandbox
+- https://hub.docker.com/_/microsoft-businesscentral-onprem
+- GitHub .. ALコンパイラと開発ツールに関する開発者向けフォーラム
+- https://github.com/Microsoft/AL/issues
+- https://github.com/Microsoft/ALAppExtensions/issues
+- https://github.com/Microsoft/BCTech/
+- https://github.com/MicrosoftDocs/dynamics365smb-docs
+- https://github.com/MicrosoftDocs/dynamics365smb-devitpro-pb
+- https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center
+- https://support.microsoft.com/lifecycle/search?alpha=business%20central
+- https://marketplace.visualstudio.com/vscode
+- https://aka.ms/GetStartedWithApps
+- https://aka.ms/BusinessCentralApps
+- https://aka.ms/BusinessCentralAddOnApps
+- https://aka.ms/BusinessCentralConnectApps
+- https://aka.ms/BusinessCentralEmbedApps
+- https://aka.ms/BusinessCentralLocalizationApps
+- https://cdx.transform.microsoft.com/experiences
 
 @snapend
