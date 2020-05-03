@@ -2,17 +2,17 @@
 @snap[west text-03 span-50 text-left]
 
 - **Official updates**
-- [Dynamics 365 Blog][101]
-- [Product updates](https://aka.ms/Dynamics365ReleaseOverview "D365 最新リリースの概要情報")
-- [Release plans](https://aka.ms/businessappsreleasenotes "D365 (CE/FO/BC 含む) と Power platform のリリースプラン")
-- [Latest release plan](https://aka.ms/dynamics365releaseplan)
-- [aka.ms/bclastminorupdate][0]
-- [https://aka.ms/mbas2019DYN](https://aka.ms/mbas2019DYN "Business Application Summit .. D365最大級公式イベントのセッション動画")
+- [cloudblogs.microsoft.com][101] .. Microsoft Vice President と BC 製品チームによる公式情報
+- [aka.ms/Dynamics365ReleaseOverview][102] .. Product updates
+- [Release plans][103]
+- [Latest release plan][104]
+- [aka.ms/bclastminorupdate][105]
+- [https://aka.ms/mbas2019DYN][106]
 - [Customer Source](https://mbs.microsoft.com/customersource/Global/365Business "Customer Source .. オンプレミス版のインストーラーを取得できる")
 - Microsoft 365 admin center .. M365 と D365 の障害情報/変更情報/問合せ管理
+- https://admin.microsoft.com/Adminportal/Home#/servicehealth
 - https://admin.microsoft.com/Adminportal/Home#/MessageCenter
-- Lifecycle Services .. FO のデプロイ/アップデート/問合せ管理。現時点 FO のみ
-- https://lcs.dynamics.com/v2
+- [Lifecycle Services](https://lcs.dynamics.com/v2 "FO のデプロイ/アップデート/問合せ管理。現時点 FO のみ")
 - Ideas .. 新しい機能のアイデアの提案と投票ができる
 - https://aka.ms/bcideas
 - https://aka.ms/businesscentralideas
@@ -48,18 +48,24 @@
 @snapend
 
 [101]: https://cloudblogs.microsoft.com/dynamics365/product/business-central/ "Microsoft Vice President と BC 製品チームによる公式情報"
-[0]: https://aka.ms/bclastminorupdate "Last minor udpate for Business Central"
+[102]: https://aka.ms/Dynamics365ReleaseOverview "D365 最新リリースの概要情報"
+[103]: https://aka.ms/businessappsreleasenotes "D365 (CE/FO/BC 含む) と Power platform のリリースプラン"
+[104]: https://aka.ms/dynamics365releaseplan "Dynamics 365: 2020 release wave 1 plan"
+[105]: https://aka.ms/bclastminorupdate "Last minor udpate for Business Central"
+[106]: https://aka.ms/mbas2019DYN "Business Application Summit .. D365最大級公式イベントのセッション動画"
 
 @snap[east text-03 span-50 text-left]
 
-- **Forums**
+- **For Partners**
+- Microsoft Partner dashboard .. パートナー向けダッシュボード
+- https://partner.microsoft.com/dashboard/
 - Microsoft Partner Community .. パートナー向けフォーラム（新）
 - https://www.microsoftpartnercommunity.com/
 - Yammer Network .. パートナー向けフォーラム（旧）上の MPC へ移行中
 - https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/
 - https://www.yammer.com/atscrm2014/
-- Microsoft Partner dashboard .. パートナー向けダッシュボード
-- https://partner.microsoft.com/dashboard/
+- https://www.yammer.com/dynamicsnavdev/
+- **User forum**
 - User community .. ユーザー向けフォーラムとユーザー投稿のブログ
 - https://aka.ms/mbasppc .. powerusers.microsoft.com
 - https://aka.ms/mbasd365c .. community.dynamics.com
@@ -70,6 +76,7 @@
 - Twitter hashtags .. BC公式アカウント、MS職員、BCユーザーのつぶやき
 - https://twitter.com/hashtag/MSDyn365BC
 - https://twitter.com/hashtag/BCALhelp
+- **For ISV**
 - App Source .. ISV の拡張機能が公開されている。PBC や SPS もここ
 - https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central
 - Docker .. BC のビルドごとのコンテナが公開されている
