@@ -94,7 +94,7 @@
 - [powershellgallery.com/navcontainerhelper][225] .. コンテナ操作のヘルパー PS モジュール
 - [github.com/microsoft/AL/issues][231] .. BC 開発ツールの issue
 - [https://github.com/microsoft/ALAppExtensions/issues][232] .. BC イベントの issues
-- [https://github.com/microsoft/BCTech/][233] .. BC のサンプル
+- [https://github.com/microsoft/BCTech/][233] .. AL や Azure Service Bus のサンプル
 - [https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al][234] .. AL development tools
 - https://aka.ms/GetStartedWithApps
 - https://aka.ms/BusinessCentralApps
@@ -120,8 +120,8 @@
 [225]: https://www.powershellgallery.com/packages/navcontainerhelper/ "コンテナ操作のヘルパー PS モジュール"
 [231]: https://github.com/microsoft/AL/issues "BC 開発ツールの issue"
 [232]: https://github.com/microsoft/ALAppExtensions/issues "BC イベントの issues"
-[233]: https://github.com/microsoft/BCTech/ ""
-[234]: https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al ""
+[233]: https://github.com/microsoft/BCTech/ "AL や Azure Service Bus のサンプル"
+[234]: https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al "VSCode"
 <!-- https://aka.ms/getsandboxforbusinesscentral -->
 <!-- https://aka.ms/getbc -->
 <!-- https://aka.ms/msftdynamics365 -->
