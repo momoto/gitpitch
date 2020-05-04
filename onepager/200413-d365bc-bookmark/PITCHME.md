@@ -68,34 +68,32 @@
 <!-- https://cloudblogs.microsoft.com/dynamics365/ -->
 <!-- https://twitter.com/MSFTDynamics365 -->
 <!-- https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ -->
-<!-- https://www.linkedin.com/showcase/microsoft-dynamics -->
+<!-- https://www.linkedin.com/showcase/microsoft-dynamics/ -->
 
 @snap[east text-03 span-50 text-left]
 
 - **For Partners**
-- [https://partner.microsoft.com/dashboard/][201] .. パートナー向けダッシュボード
+- [partner.microsoft.com/dashboard/][201] .. パートナー向けダッシュボード
 - [Microsoft Partner Community][202] .. パートナー向けフォーラム（新）
-- [www.yammer.com/microsoftdynamicspartnernetworkworldwide/][203] .. パートナー向けフォーラム（旧）上の MPC へ移行中
-- [www.yammer.com/atscrm2014/][204] .. Teams へ移行中
-- [www.yammer.com/dynamicsnavdev/][205]
+- [yammer.com/microsoftdynamicspartnernetworkworldwide/][203] .. Yammer Network
+- [yammer.com/atscrm2014/][204] .. Yammer Network
+- [yammer.com/dynamicsnavdev/][205] .. Yammer Network
 - **User Community**
 - [community.dynamics.com][211] .. ユーザーコミュニティ
 - [D365 Business Central Forum][212] .. ユーザーフォーラム
-- [D365 Business Central Video Blog][213] .. YouTube ビデオがまとめられている記事
-- Twitter hashtags .. BC公式アカウント、MS職員、BCユーザーのつぶやき
-- [https://twitter.com/hashtag/BCALhelp][214]
-- [https://twitter.com/hashtag/MSDyn365BC][215]
+- [D365 Business Central Video Blog][213] .. YouTube動画がまとめられている記事
+- [twitter.com/hashtag/BCALhelp][214] .. Twitter hashtags
+- [twitter.com/hashtag/MSDyn365BC][215] .. Twitter hashtags
 - **For ISV**
-- [App Source][221] .. ISV の拡張機能が公開されている
-- [https://hub.docker.com/_/microsoft-businesscentral-sandbox][222] .. サンドボックス版公式コンテナイメージ
-- [https://hub.docker.com/_/microsoft-businesscentral-onprem][223] .. オンプレミス版公式コンテナイメージ
-- [https://hub.docker.com/r/microsoft/dynamics-nav/][224] .. Dynamics NAV の公式コンテナイメージ
-- GitHub .. ALコンパイラと開発ツールに関する開発者向けフォーラム
-- [powershellgallery.com/navcontainerhelper][225] .. コンテナ操作のヘルパー PS モジュール
+- [appsource.microsoft.com][221] .. ISV の拡張機能が公開されている
+- [hub.docker.com - businesscentral-sandbox][222] .. サンドボックス版公式コンテナイメージ
+- [hub.docker.com - businesscentral-onprem][223] .. オンプレミス版公式コンテナイメージ
+- [hub.docker.com - dynamics-nav][224] .. Dynamics NAV の公式コンテナイメージ
+- [powershellgallery.com/navcontainerhelper][225] .. コンテナヘルパー PS モジュール
 - [github.com/microsoft/AL/issues][231] .. BC 開発ツールの issue
-- [https://github.com/microsoft/ALAppExtensions/issues][232] .. BC イベントの issues
-- [https://github.com/microsoft/BCTech/][233] .. AL や Azure Service Bus のサンプル
-- [https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al][234] .. AL development tools
+- [github.com/microsoft/ALAppExtensions/issues][232] .. BC イベントの issues
+- [github.com/microsoft/BCTech/][233] .. AL や Azure Service Bus のサンプル
+- [Visual Studio Code - AL言語拡張機能][234] .. AL 言語 VSCode 拡張機能
 - https://aka.ms/GetStartedWithApps
 - https://aka.ms/BusinessCentralApps
 - https://aka.ms/BusinessCentralAddOnApps
@@ -107,21 +105,23 @@
 
 [201]: https://partner.microsoft.com/dashboard/     "Microsoft Partner dashboard .. パートナー向けダッシュボード"
 [202]: https://www.microsoftpartnercommunity.com/   "パートナー向けフォーラム（新）"
-[203]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/ "Yammer Network"
-[204]: https://www.yammer.com/atscrm2014/ "Yammer Network"
+[203]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/ "パートナー向けフォーラム（旧）上の MPC へ移行中"
+[204]: https://www.yammer.com/atscrm2014/ "Teams へ移行中"
 [205]: https://www.yammer.com/dynamicsnavdev/ "Yammer Network"
 [211]: https://community.dynamics.com/business "ユーザーコミュニティ"
 [212]: https://community.dynamics.com/business/f/dynamics-365-business-central-forum "ユーザーフォーラム"
-[213]: https://community.dynamics.com/business/b/dynamics-365-business-central-video-blog "BC関連のYouTubeビデオがまとめられているブログ"
+[213]: https://community.dynamics.com/business/b/dynamics-365-business-central-video-blog "YouTube動画がまとめられている記事"
+[214]: https://twitter.com/hashtag/BCALhelp "BCALhelp"
+[215]: https://twitter.com/hashtag/MSDyn365BC "MSDyn365BC"
 [221]: https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central "App Source .. ISV の拡張機能が公開されている"
 [222]: https://hub.docker.com/_/microsoft-businesscentral-sandbox "サンドボックス版公式コンテナイメージ"
 [223]: https://hub.docker.com/_/microsoft-businesscentral-onprem "オンプレミス版公式コンテナイメージ"
 [224]: https://hub.docker.com/r/microsoft/dynamics-nav "Dynamics NAV の公式コンテナイメージ"
-[225]: https://www.powershellgallery.com/packages/navcontainerhelper/ "コンテナ操作のヘルパー PS モジュール"
+[225]: https://www.powershellgallery.com/packages/navcontainerhelper/ "コンテナヘルパー PS モジュール"
 [231]: https://github.com/microsoft/AL/issues "BC 開発ツールの issue"
 [232]: https://github.com/microsoft/ALAppExtensions/issues "BC イベントの issues"
 [233]: https://github.com/microsoft/BCTech/ "AL や Azure Service Bus のサンプル"
-[234]: https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al "VSCode"
+[234]: https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al "AL 言語 VSCode 拡張機能"
 <!-- https://aka.ms/getsandboxforbusinesscentral -->
 <!-- https://aka.ms/getbc -->
 <!-- https://aka.ms/msftdynamics365 -->
@@ -137,6 +137,6 @@
 
 Note:
 
-- アップデート情報やサポート情報というような分類に分けて並べています
-- この分類分けや並び順は、私が個人的に整理したものでマイクロソフトによるものではありません
+- Bookmarks for a beginner of Microsoft Dynamcis 365 Business Central
+- 主に D365 Business Central の初心者向けに参考リンクをまとめた One Pager です
 - Inspired by [Alexey Finogenov](https://community.dynamics.com/business/f/dynamics-365-business-central-forum/307965/info-useful-links)
