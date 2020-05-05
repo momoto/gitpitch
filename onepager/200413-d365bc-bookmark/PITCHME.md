@@ -1,4 +1,4 @@
-@snap[north span-100]
+@snap[north text-10 span-100]
 One-Pager: Useful links for Business Central beginners
 @snapend
 
