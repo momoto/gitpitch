@@ -1,4 +1,4 @@
-@snap[north text-10 span-100]
+@snap[north text-06 span-100]
 One-Pager: Useful links for Business Central beginners
 @snapend
 
@@ -9,8 +9,8 @@ One-Pager: Useful links for Business Central beginners
 - [aka.ms/Updates/BusinessCentral][102] .. Product updates
 - [aka.ms/businessappsreleasenotes][103] .. Release plans
 - [aka.ms/dynamics365releaseplan][104] .. Latest release plan
-- [aka.ms/Licensing/BusinessCentral][105] .. Microsoft Dynamics 365 Business Central Licensing Guide
-- [aka.ms/BusinessAppsGeoAvailability][106] .. Dynamics 365 and Power Platform availability
+- [aka.ms/Licensing/BusinessCentral][105] .. BC ライセンシングガイド
+- [aka.ms/BusinessAppsGeoAvailability][106] .. D365 インフラの地域情報
 - [aka.ms/mbas2019DYN][107] .. D365最大級公式イベントのセッション動画
 - [twitter.com/MSDYN365BC][108] .. D365 Business Central 公式 Twitter
 - [Updates for BC 16.x][114] .. 2020 Release Wave 1
@@ -21,36 +21,38 @@ One-Pager: Useful links for Business Central beginners
 - [M365 admin center Service Request][121] .. マイクロソフト技術サポートへ問合せ
 - [M365 admin center Service Health][122] .. M365 と D365 の障害情報
 - [M365 admin center Message Center][123] .. M365 と D365 の変更情報
-- [aka.ms/bcideas][124] .. 新しい機能のアイデアの提案と投票ができる
-- [D365 Bounty Program][125] .. バグを報告して深刻度に応じて報奨金がもらえる制度
+- [aka.ms/bcideas][124] .. 新機能の提案と投票ができる
+- [D365 Bounty Program][125] .. 深刻なバグ報告に報奨金がもらえる制度
 - [support.microsoft.com/lifecycle][126] .. 製品サポート終了日を確認できる
 - **Learn**
 - [Microsoft Docs][131]
-  - [aka.ms/bcupdates][132] .. Major Updates of Business Central Online
-  - [aka.ms/bclastminorupdate][133] .. Last minor udpate for Business Central
-  - [aka.ms/bcproductivity][134] .. Working with Business Central ショートカットキーチートシート
-  - [aka.ms/ReadyToGo][135] .. The "Ready to Go" Program
-  - [aka.ms/bcperformance][136] .. Performance Overview
-  - [aka.ms/platformlimits][137] .. Requests limits and allocations
+  - [aka.ms/bcupdates][132] .. メジャーアップデートの概要
+  - [aka.ms/bclastminorupdate][133] .. 最新のマイナーアップデート情報
+  - [aka.ms/bcproductivity][134] .. BC 操作のチートシート
+  - [aka.ms/ReadyToGo][135] .. "Ready to Go" プログラム
+  - [aka.ms/bcperformance][136] .. BC のパフォーマンスに関する情報
+  - [aka.ms/platformlimits][137] .. Power Platform のリクエスト制限
+  - [Business Central Learning Catalog][138] .. 各コンテンツへのリンク
 - [Microsoft Learn][141] .. BC の初級/中級/上級レベルごとのラーニングパスがある
 - [aka.ms/ReadyToGoOnlineLearning][142] .. [旧 DLP][161] のトレーニング資料が残っている
 - [partneruniversity.microsoft.com][143] .. パートナー向けトレーニング
-- [partner.microsoft.com/training/assets][144] .. 各トレーニングコンテンツへのリンク
-- [partner.microsoft.com/training/mstep-dynamics][145] .. mstep パートナー向け D365 トレーニングコース
-- [trials.dynamics.com][151] .. トライアル用環境を作成できる。M365テナントが別途必要
-- [cdx.transform.microsoft.com][152] .. デモ用テナントを作成できる。パートナー向け
+- [partner.microsoft.com/training/assets][144] .. 各コンテンツへのリンク
+- [partner.microsoft.com/training/mstep-dynamics][145] .. D365 トレーニングコース
+- [youtube.com - Business Central][146] .. 操作説明の YouTube プレイリスト
+- [trials.dynamics.com][151] .. トライアル用環境を作成できる
+- [cdx.transform.microsoft.com][152] .. デモ用テナントを作成できる
 - [mbs.microsoft.com][153] .. オンプレミス版のインストーラーを取得できる
 
 @snapend
 
 [101]: https://cloudblogs.microsoft.com/dynamics365/product/business-central/ "Microsoft Vice President と BC 製品チームによる公式情報"
-[102]: https://aka.ms/Updates/BusinessCentral "D365 最新リリースの概要情報"
-[103]: https://aka.ms/businessappsreleasenotes "D365 (CE/FO/BC 含む) と Power platform のリリースプラン"
-[104]: https://aka.ms/Dynamics365ReleasePlan "Dynamics 365: 2020 release wave 1 plan"
-[105]: https://aka.ms/BusinessCentralLicensing "Business Central のライセンスガイド"
-[106]: https://aka.ms/BusinessAppsGeoAvailability "D365 のデータセンター等の地域情報"
-[107]: https://aka.ms/mbas2019DYN "Business Application Summit .. D365最大級公式イベントのセッション動画"
-[108]: https://twitter.com/MSDYN365BC "D365 Business Central 公式 Twitter"
+[102]: https://aka.ms/Updates/BusinessCentral      "D365 最新リリースの概要情報"
+[103]: https://aka.ms/businessappsreleasenotes     "D365 (CE/FO/BC 含む) と Power platform のリリースプラン"
+[104]: https://aka.ms/Dynamics365ReleasePlan       "Dynamics 365: 2020 release wave 1 plan"
+[105]: https://aka.ms/BusinessCentralLicensing     "BC ライセンシングガイド"
+[106]: https://aka.ms/BusinessAppsGeoAvailability  "D365 インフラの地域情報"
+[107]: https://aka.ms/mbas2019DYN                  "Business Application Summit .. D365最大級公式イベントのセッション動画"
+[108]: https://twitter.com/MSDYN365BC              "D365 Business Central 公式 Twitter"
 [111]: https://support.microsoft.com/help/4470116/ "Updates for BC 13.x (October 2018)"
 [112]: https://support.microsoft.com/help/4501292/ "Updates for BC 14.x (Spring / April 2019)"
 [113]: https://support.microsoft.com/help/4528706/ "Updates for BC 15.x (2019 Wave 2)"
@@ -59,7 +61,7 @@ One-Pager: Useful links for Business Central beginners
 [122]: https://admin.microsoft.com/Adminportal/Home#/servicehealth  "Microsoft 365 Admin Center - Service health"
 [123]: https://admin.microsoft.com/Adminportal/Home#/MessageCenter  "Microsoft 365 Admin Center - Message center"
 [124]: https://aka.ms/bcideas                         "Ideas .. 新しい機能のアイデアの提案と投票ができる"
-[125]: https://www.microsoft.com/msrc/bounty-dynamics "バグを報告して深刻度に応じて報奨金がもらえる制度"
+[125]: https://www.microsoft.com/msrc/bounty-dynamics "深刻なバグ報告に報奨金がもらえる制度"
 [126]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品サポート終了日を確認できる"
 [131]: https://docs.microsoft.com/dynamics365/business-central/ "Microsoft Docs .. ビジネスプロセス情報とITプロ向けコンテンツがある"
 [132]: https://aka.ms/bcupdates         "Major Updates of Business Central Online"
@@ -68,11 +70,13 @@ One-Pager: Useful links for Business Central beginners
 [135]: https://aka.ms/ReadyToGo         "The “Ready to Go” Program"
 [136]: https://aka.ms/bcperformance     "Performance Overview"
 [137]: https://aka.ms/platformlimits    "Requests limits and allocations (Power platform)"
-[141]: https://aka.ms/bclearn           "BC の初級/中級/上級レベルごとのラーニングパスがある"
+[138]: https://go.microsoft.com/fwlink/?linkid=2002101 "各トレーニングコンテンツへのリンク集（意思決定者、業務ユーザー、開発者、パートナーの別）"
+[141]: https://aka.ms/bclearn                   "BC の初級/中級/上級レベルごとのラーニングパスがある"
 [142]: https://aka.ms/ReadyToGoOnlineLearning   "Microsoft Dynamics Learning Portal (DLP) .. 旧バージョンのラーニングマテリアル"
-[143]: https://partneruniversity.microsoft.com/ "パートナー向けトレーニング"
+[143]: https://partneruniversity.microsoft.com/ "Partner University .. パートナー向けトレーニング"
 [144]: https://partner.microsoft.com/training/assets#/?prod=microsoft-dynamics-365 "各トレーニングコンテンツへのリンク"
-[145]: https://partner.microsoft.com/ja-jp/training/mstep-dynamics "mstep パートナー向け D365 トレーニングコース（日本語のみ）"
+[145]: https://partner.microsoft.com/ja-jp/training/mstep-dynamics                 "mstep パートナー向け D365 トレーニングコース（日本語のみ）"
+[146]: https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4    "BC 操作説明の Youtube プレイリスト"
 [151]: https://trials.dynamics.com/             "D365 Trials .. トライアル用環境を作成できる。M365テナントが別途必要"
 [152]: https://cdx.transform.microsoft.com/     "デモ用テナントを作成できる。パートナー向け"
 [153]: https://mbs.microsoft.com/customersource/Global/365Business "Customer Source .. オンプレミス版のインストーラーを取得できる"
