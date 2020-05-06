@@ -133,12 +133,8 @@ Useful links One-Pager for Business Central beginners
 [242]: https://aka.ms/BusinessCentralConnectApps      "Connect Apps の説明"
 [243]: https://aka.ms/BusinessCentralEmbedApps        "Embed Apps の説明"
 [244]: https://aka.ms/BusinessCentralLocalizationApps "Localization apps の説明"
-[301]:
-  https://www.microsoftpartnercommunity.com/t5/Competency-Training/Dynamics-Learning-Portal-DLP-Retirement/m-p/16411
-  "Dynamics Learning Portal (DLP) will be retired in April 2020"
-[302]:
-  https://www.microsoftpartnercommunity.com/t5/NEW-Product-GTM-Events-and-more/PartnerSource-retirement-postponed/m-p/19362
-  "PartnerSource retirement postponed"
+[301]: https://www.microsoftpartnercommunity.com/t5/Competency-Training/Dynamics-Learning-Portal-DLP-Retirement/m-p/16411 "Dynamics Learning Portal (DLP) will be retired in April 2020"
+[302]: https://www.microsoftpartnercommunity.com/t5/NEW-Product-GTM-Events-and-more/PartnerSource-retirement-postponed/m-p/19362 "PartnerSource retirement postponed"
 [303]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/threads/556433008394240
 [304]: https://www.yammer.com/atscrm2014/threads/636799060049920
 [   ]: https://github.com/Microsoft/cal-open-library/ "C/AL Open Library"
