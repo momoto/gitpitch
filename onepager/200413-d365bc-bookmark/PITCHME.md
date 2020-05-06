@@ -1,5 +1,5 @@
 @snap[north text-06 span-100]
-Useful links One-Pager for Business Central beginners
+Useful links One-Pager for Business Central
 @snapend
 
 @snap[west text-03 span-50 text-left]
@@ -16,13 +16,6 @@ Useful links One-Pager for Business Central beginners
 - [Updates for BC 15.x][113]                .. 2019 Release Wave 2
 - [Updates for BC 14.x][112]                .. Spring / April 2019
 - [Updates for BC 13.x][111]                .. October 2018
-- **Support**
-- [M365 admin center Service Request][121] .. マイクロソフト技術サポートへ問合せ
-- [M365 admin center Service Health][122] .. M365 と D365 の障害情報
-- [M365 admin center Message Center][123] .. M365 と D365 の変更情報
-- [aka.ms/bcideas][124] .. 新機能の提案と投票ができる
-- [D365 Bounty Program][125] .. 深刻なバグ報告に報奨金がもらえる制度
-- [support.microsoft.com/lifecycle][126] .. 製品のサポート終了日情報
 - **Learn**
 - [Microsoft Docs][131]
   - [aka.ms/bcupdates][132] .. メジャーアップデートの概要
@@ -55,12 +48,6 @@ Useful links One-Pager for Business Central beginners
 [112]: https://support.microsoft.com/help/4501292/ "Updates for BC 14.x (Spring / April 2019)"
 [113]: https://support.microsoft.com/help/4528706/ "Updates for BC 15.x (2019 Wave 2)"
 [114]: https://support.microsoft.com/help/4553289/ "Updates for BC 16.x (2020 Wave 1)"
-[121]: https://admin.microsoft.com/Adminportal/Home#/support        "Microsoft 365 Admin Center - New service request"
-[122]: https://admin.microsoft.com/Adminportal/Home#/servicehealth  "Microsoft 365 Admin Center - Service health"
-[123]: https://admin.microsoft.com/Adminportal/Home#/MessageCenter  "Microsoft 365 Admin Center - Message center"
-[124]: https://aka.ms/bcideas                         "Ideas .. 新しい機能のアイデアの提案と投票ができる"
-[125]: https://www.microsoft.com/msrc/bounty-dynamics "深刻なバグ報告に報奨金がもらえる制度"
-[126]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品のサポート終了日情報"
 [131]: https://aka.ms/Documentation/BusinessCentral "Microsoft Docs .. ビジネスプロセス情報とITプロ向けコンテンツがある"
 [132]: https://aka.ms/bcupdates         "Major Updates of Business Central Online"
 [133]: https://aka.ms/bclastminorupdate "Last minor udpate for Business Central"
@@ -81,6 +68,13 @@ Useful links One-Pager for Business Central beginners
 
 @snap[east text-03 span-50 text-left]
 
+- **Support**
+- [M365 admin center Service Request][121]  .. マイクロソフト技術サポートへ問合せ
+- [M365 admin center Service Health][122]   .. M365 と D365 の障害情報
+- [M365 admin center Message Center][123]   .. M365 と D365 の変更情報
+- [aka.ms/bcideas][124]                     .. 新機能の提案と投票ができる
+- [D365 Bounty Program][125]                .. 深刻なバグ報告に報奨金がもらえる制度
+- [support.microsoft.com/lifecycle][126]    .. 製品のサポート終了日情報
 - **For Partners**
 - [partner.microsoft.com/dashboard][201] .. パートナー向けダッシュボード
 - [microsoftpartnercommunity.com (MPC)][202] .. パートナー向けフォーラム（新）
@@ -110,6 +104,12 @@ Useful links One-Pager for Business Central beginners
 
 @snapend
 
+[121]: https://admin.microsoft.com/Adminportal/Home#/support        "Microsoft 365 Admin Center - New service request"
+[122]: https://admin.microsoft.com/Adminportal/Home#/servicehealth  "Microsoft 365 Admin Center - Service health"
+[123]: https://admin.microsoft.com/Adminportal/Home#/MessageCenter  "Microsoft 365 Admin Center - Message center"
+[124]: https://aka.ms/bcideas                         "Ideas .. 新しい機能のアイデアの提案と投票ができる"
+[125]: https://www.microsoft.com/msrc/bounty-dynamics "深刻なバグ報告に報奨金がもらえる制度"
+[126]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品のサポート終了日情報"
 [201]: https://aka.ms/collaborate                "Microsoft Partner dashboard .. パートナー向けダッシュボード"
 [202]: https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps "パートナー向けフォーラム（新）"
 [203]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/ "パートナー向けフォーラム（旧）上の MPC へ移行中"
