@@ -16,6 +16,7 @@ Useful links One-Pager for Business Central
 - [Updates for BC 15.x][113]                .. 2019 Release Wave 2
 - [Updates for BC 14.x][112]                .. Spring / April 2019
 - [Updates for BC 13.x][111]                .. October 2018
+- [support.microsoft.com/lifecycle][126]    .. 製品のサポート終了日情報
 - **Learn**
 - [Microsoft Docs][131]
   - [aka.ms/bcupdates][132] .. メジャーアップデートの概要
@@ -44,6 +45,7 @@ Useful links One-Pager for Business Central
 [105]: https://aka.ms/BusinessAppsGeoAvailability  "D365 (CE/FO/BC 含む) と Power Platform インフラの地域情報"
 [106]: https://aka.ms/mbas2019DYN                  "Business Application Summit .. D365 最大級公式イベントのセッション動画"
 [107]: https://twitter.com/MSDYN365BC              "BC 最新公式情報のツイート"
+[126]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品のサポート終了日情報"
 [111]: https://support.microsoft.com/help/4470116/ "Updates for BC 13.x (October 2018)"
 [112]: https://support.microsoft.com/help/4501292/ "Updates for BC 14.x (Spring / April 2019)"
 [113]: https://support.microsoft.com/help/4528706/ "Updates for BC 15.x (2019 Wave 2)"
@@ -74,19 +76,18 @@ Useful links One-Pager for Business Central
 - [M365 admin center Message Center][123]   .. M365 と D365 の変更情報
 - [aka.ms/bcideas][124]                     .. 新機能の提案と投票ができる
 - [D365 Bounty Program][125]                .. 深刻なバグ報告に報奨金がもらえる制度
-- [support.microsoft.com/lifecycle][126]    .. 製品のサポート終了日情報
-- **For Partners**
-- [partner.microsoft.com/dashboard][201] .. パートナー向けダッシュボード
-- [microsoftpartnercommunity.com (MPC)][202] .. パートナー向けフォーラム（新）
-- [yammer.com/microsoftdynamicspartnernetworkworldwide][203] .. MPC へ[移行中][303]
-- [yammer.com/atscrm2014][204] .. Teams へ[移行中][304]
-- [yammer.com/dynamicsnavdev][205] .. BC開発者向けネットワーク
 - **User Community**
 - [aka.ms/Community/BusinessCentral][211] .. ユーザーコミュニティ
 - [D365 Business Central Blogs][212] .. MS製品チームやユーザー投稿のブログ
 - [D365 Business Central Forum][213] .. ユーザーフォーラム
 - [twitter.com/hashtag/BCALhelp][214] .. AL に関するヘルプ
 - [twitter.com/hashtag/MSDyn365BC][215] .. BC に関するツイート
+- **For Partners**
+- [partner.microsoft.com/dashboard][201] .. パートナー向けダッシュボード
+- [microsoftpartnercommunity.com (MPC)][202] .. パートナー向けフォーラム（新）
+- [yammer.com/microsoftdynamicspartnernetworkworldwide][203] .. MPC へ[移行中][303]
+- [yammer.com/atscrm2014][204] .. Teams へ[移行中][304]
+- [yammer.com/dynamicsnavdev][205] .. BC開発者向けネットワーク
 - **For ISV**
 - [appsource.microsoft.com][221]                     .. MS や ISV の拡張機能が公開されている
 - [hub.docker.com - businesscentral-sandbox][222]    .. サンドボックスのコンテナイメージ
@@ -109,7 +110,6 @@ Useful links One-Pager for Business Central
 [123]: https://admin.microsoft.com/Adminportal/Home#/MessageCenter  "Microsoft 365 Admin Center - Message center"
 [124]: https://aka.ms/bcideas                         "Ideas .. 新しい機能のアイデアの提案と投票ができる"
 [125]: https://www.microsoft.com/msrc/bounty-dynamics "深刻なバグ報告に報奨金がもらえる制度"
-[126]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品のサポート終了日情報"
 [201]: https://aka.ms/collaborate                "Microsoft Partner dashboard .. パートナー向けダッシュボード"
 [202]: https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps "パートナー向けフォーラム（新）"
 [203]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/ "パートナー向けフォーラム（旧）上の MPC へ移行中"
@@ -195,6 +195,18 @@ Useful links One-Pager for Business Central
 [   ]: https://appsource.microsoft.com/product/power-bi/microsoftdynsmb.businesscentral_sales
 [   ]: https://appsource.microsoft.com/product/office/WA104379629
 [   ]: https://appsource.microsoft.com/product/office/WA104380330
+[   ]: https://aka.ms/Azure/Shortcuts
+[   ]: https://aka.ms/Azure/Learn
+[   ]: https://aka.ms/AzureStack/Shortcuts
+[   ]: https://aka.ms/AzureServiceHealth
+[   ]: https://status.azure.com/status
+[   ]: https://status.dev.azure.com/
+[   ]: https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview
+[   ]: https://portal.azure.com/
+[   ]: https://aex.dev.azure.com/me
+[   ]: https://admin.powerplatform.microsoft.com/
+[   ]: https://admin.businessplatform.microsoft.com/environments
+
 
 Note:
 
