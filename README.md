@@ -6,7 +6,7 @@ The GitPitch slide design templates are a collection of markdown snippets that c
 
 ## Index of GitPitch slides
 
-- https://gitpitch.com/momoto/the-template/my
-- https://gitpitch.com/momoto/the-template/my?p=meetups/180827-contrib-docs
-- https://gitpitch.com/momoto/the-template/my?p=onepager/190719-bcapis
-- https://gitpitch.com/momoto/the-template/my?p=onepager/200413-bcbookmark
+- https://gitpitch.com/momoto/gitpitch
+- https://gitpitch.com/momoto/gitpitch?p=meetups/180827-contrib-docs
+- https://gitpitch.com/momoto/gitpitch?p=onepager/190719-bcapis
+- https://gitpitch.com/momoto/gitpitch?p=onepager/200413-bcbookmark
