@@ -1,6 +1,6 @@
 #### Business Central Online APIs URI Syntax
 
-![Image](assets/msdyn365bc-online-apis-uri-syntax.png)
+![Image](/onepager/190719-bcapis/assets/msdyn365bc-online-apis-uri-syntax.png)
 
 ---
 
