@@ -10,7 +10,7 @@ Useful links One-Pager for Business Central
 - [aka.ms/BusinessAppsReleaseNotes][103]    .. D365+Power Platform のリリースプラン
 - [aka.ms/BusinessAppsGeoAvailability][104] .. D365+Power Platform インフラ地域情報
 - [aka.ms/Licensing/BusinessCentral][105]   .. BC ライセンシングガイド
-- [aka.ms/mbas2019DYN][106]                 .. D365 最大級公式イベントのセッション動画
+- [MBAS 2020 Gallery][106]                  .. D365 最大級公式イベントのセッション動画
 - [twitter.com/MSDYN365BC][107]             .. BC 最新情報の公式ツイート
 - [Updates for BC 16.x][115]                .. 2020 Release Wave 1
 - [Updates for BC 15.x][114]                .. 2019 Release Wave 2
@@ -43,7 +43,7 @@ Useful links One-Pager for Business Central
 [103]: https://aka.ms/BusinessAppsReleaseNotes         "D365 (CE/FO/BC 含む) と Power Platform のリリースプラン"
 [104]: https://aka.ms/BusinessAppsGeoAvailability      "D365 (CE/FO/BC 含む) と Power Platform インフラの地域情報"
 [105]: https://aka.ms/Licensing/BusinessCentral        "BC ライセンシングガイド"
-[106]: https://aka.ms/mbas2019DYN                      "Business Application Summit .. D365 最大級公式イベントのセッション動画"
+[106]: https://community.dynamics.com/365/mbas/f/microsoft-business-applications-summit-gallery-2020?category=Dynamics%20365%20Business%20Central
 [107]: https://twitter.com/MSDYN365BC                  "BC 最新公式情報のツイート"
 [111]: https://support.microsoft.com/lifecycle/search?alpha=Business%20Central "製品のサポート終了日情報"
 [112]: https://support.microsoft.com/help/4470116/     "Updates for BC 13.x (October 2018)"
@@ -137,6 +137,11 @@ Useful links One-Pager for Business Central
 [302]: https://www.microsoftpartnercommunity.com/t5/NEW-Product-GTM-Events-and-more/PartnerSource-retirement-postponed/m-p/19362 "PartnerSource retirement postponed"
 [303]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/threads/556433008394240
 [304]: https://www.yammer.com/atscrm2014/threads/636799060049920
+<!-- [   ]: https://aka.ms/mbas2019DYN -->
+<!-- [   ]: https://powerusers.microsoft.com/t5/Microsoft-Business-Applications/bd-p/PA_MBAS_Gallery?filter=p_dynamics+365+business+central "2019" -->
+<!-- [   ]: https://community.dynamics.com/365/mbas/f/mbas-gallery?category=Dynamics%20365%20Business%20Central "2019" -->
+<!-- [   ]: https://community.dynamics.com/365/mbas/f/microsoft-business-applications-summit-gallery-2020?category=Dynamics%20365%20Business%20Central "2020" -->
+<!-- [   ]: https://community.powerbi.com/t5/Themes-Gallery/Dynamics-365-Business-Central-inspired-theme/td-p/841502 "Business Central inspired theme" -->
 <!-- [   ]: https://github.com/Microsoft/cal-open-library/ "C/AL Open Library" -->
 <!-- [   ]: https://roadmap.dynamics.com/ -->
 <!-- [   ]: https://aka.ms/Events/BusinessCentral -->
