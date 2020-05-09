@@ -137,8 +137,9 @@ Useful links One-Pager for Business Central
 [302]: https://www.microsoftpartnercommunity.com/t5/NEW-Product-GTM-Events-and-more/PartnerSource-retirement-postponed/m-p/19362 "PartnerSource retirement postponed"
 [303]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/threads/556433008394240
 [304]: https://www.yammer.com/atscrm2014/threads/636799060049920
+<!-- [   ]: https://aka.ms/BusinessCentralConsultingServices -->
 <!-- [   ]: https://aka.ms/mbas2019DYN -->
-<!-- [   ]: https://powerusers.microsoft.com/t5/Microsoft-Business-Applications/bd-p/PA_MBAS_Gallery?filter=p_dynamics+365+business+central "2019" -->
+<!-- [   ]: https://powerusers.microsoft.com/t5/Microsoft-Business-Applications/bd-p/PA_MBAS_Gallery?filter=p_dynamics+365+business+central -->
 <!-- [   ]: https://community.dynamics.com/365/mbas/f/mbas-gallery?category=Dynamics%20365%20Business%20Central "2019" -->
 <!-- [   ]: https://community.dynamics.com/365/mbas/f/microsoft-business-applications-summit-gallery-2020?category=Dynamics%20365%20Business%20Central "2020" -->
 <!-- [   ]: https://community.powerbi.com/t5/Themes-Gallery/Dynamics-365-Business-Central-inspired-theme/td-p/841502 "Business Central inspired theme" -->
@@ -211,6 +212,32 @@ Useful links One-Pager for Business Central
 <!-- [   ]: https://aex.dev.azure.com/me -->
 <!-- [   ]: https://admin.powerplatform.microsoft.com/ -->
 <!-- [   ]: https://admin.businessplatform.microsoft.com/environments -->
+<!--
+https://www.yammer.com/dynamicsaxfeedbackprograms/ "Finance and Operations Insider Program"
+https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/ "Microsoft Dynamics Managed Partner Worldwide"
+
+https://dynamics.microsoft.com/en-us/migration-program/#Apply
+
+## Community
+
+https://www.d365ug.com
+https://www.navug.com/
+
+## Contribution
+
+https://www.microsoft.com/ja-jp/language/
+https://www.microsoft.com/ja-jp/language/StyleGuides
+https://docs.microsoft.com/style-guide/welcome/
+
+## Update
+
+https://learning.eventbuilder.com/event/15682/recording
+
+https://aka.ms/bctelemetry "https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/telemetry-overview"
+https://aka.ms/bctelemetrysamples "https://github.com/microsoft/BCTech/tree/master/samples/AppInsights"
+https://aka.ms/azuremonitor "https://azure.microsoft.com/en-us/services/monitor/"
+
+-->
 
 Note:
 
