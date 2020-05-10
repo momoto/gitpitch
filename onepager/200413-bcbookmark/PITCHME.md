@@ -237,6 +237,17 @@ https://aka.ms/bctelemetry "https://docs.microsoft.com/dynamics365/business-cent
 https://aka.ms/bctelemetrysamples "https://github.com/microsoft/BCTech/tree/master/samples/AppInsights"
 https://aka.ms/azuremonitor "https://azure.microsoft.com/en-us/services/monitor/"
 
+## Downloads
+
+https://mbs.microsoft.com/customersource/Global/365Business/support/support-news/bconpremdownload
+https://mbs.microsoft.com/customersource/Global/365Business/support/support-news/bconpremdownload_2019
+https://mbs.microsoft.com/customersource/Global/365Business/support/support-news/bconpremdownload_2019_wave2
+https://mbs.microsoft.com/customersource/Global/365Business/downloads/service-packs/PowerBI_contentpack_changes
+https://aka.ms/bctelemetrysamples
+https://aka.ms/bccountries
+https://aka.ms/csp
+https://aka.ms/getnav
+
 -->
 
 Note:
