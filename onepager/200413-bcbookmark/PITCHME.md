@@ -88,9 +88,9 @@ Useful links One-Pager for Business Central
 - [yammer.com/microsoftdynamicspartnernetworkworldwide][223] .. MPC へ[移行中][303]
 - [yammer.com/atscrm2014][224]                               .. Teams へ[移行中][304]
 - [yammer.com/dynamicsnavdev][225]                           .. BC開発者向けネットワーク
-- [trials.dynamics.com][226]                                 .. トライアル用環境を作成できる
-- [cdx.transform.microsoft.com][227]                         .. デモ用テナントを作成できる
-- [mbs.microsoft.com][228]                                   .. オンプレミス版のインストーラーを取得できる
+- [mbs.microsoft.com][226]                                   .. オンプレミス版のインストーラーを取得できる
+- [trials.dynamics.com][227]                                 .. トライアル用環境を作成できる
+- [cdx.transform.microsoft.com][228]                         .. デモ用テナントを作成できる
 - **For ISV**
 - [appsource.microsoft.com][231]                   .. MS や ISV の拡張機能が公開されている
 - [hub.docker.com - businesscentral-sandbox][232]  .. サンドボックスのコンテナイメージ
@@ -119,9 +119,9 @@ Useful links One-Pager for Business Central
 [223]: https://www.yammer.com/microsoftdynamicspartnernetworkworldwide/       "パートナー向けフォーラム（旧）上の MPC へ移行中"
 [224]: https://www.yammer.com/atscrm2014/                                     "Teams へ移行中"
 [225]: https://www.yammer.com/dynamicsnavdev/                                 "Business Central Development External Network"
-[226]: https://trials.dynamics.com/                                           "D365 Trials .. トライアル用環境を作成できる。M365テナントが別途必要"
-[227]: https://cdx.transform.microsoft.com/                                   "デモ用テナントを作成できる。パートナー向け"
-[228]: https://mbs.microsoft.com/customersource/Global/365Business            "Customer Source .. オンプレミス版のインストーラーを取得できる"
+[226]: https://mbs.microsoft.com/customersource/Global/365Business            "Customer Source .. オンプレミス版のインストーラーを取得できる"
+[227]: https://trials.dynamics.com/                                           "D365 Trials .. トライアル用環境を作成できる。M365テナントが別途必要"
+[228]: https://cdx.transform.microsoft.com/                                   "デモ用テナントを作成できる。パートナー向け"
 [231]: https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central "App Source .. ISV の拡張機能が公開されている"
 [232]: https://hub.docker.com/_/microsoft-businesscentral-sandbox             "サンドボックス版公式コンテナイメージ"
 [233]: https://hub.docker.com/_/microsoft-businesscentral-onprem              "オンプレミス版公式コンテナイメージ"
