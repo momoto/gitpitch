@@ -78,8 +78,8 @@ Useful links One-Pager for Business Central
 - [D365 Bounty Program][205]                .. 深刻なバグ報告に報奨金がもらえる制度
 - **User Community**
 - [aka.ms/Community/BusinessCentral][211]   .. ユーザーコミュニティ
-  - [D365 Business Central Blogs][212]      .. MS製品チームやユーザー投稿のブログ
-  - [D365 Business Central Forum][213]      .. ユーザーフォーラム
+- [D365 Business Central Blogs][212]        .. MS製品チームやユーザー投稿のブログ
+- [D365 Business Central Forum][213]        .. ユーザーフォーラム
 - [twitter.com/hashtag/BCALhelp][214]       .. AL に関するヘルプ
 - [twitter.com/hashtag/MSDyn365BC][215]     .. BC に関するツイート
 - **For Partners**
