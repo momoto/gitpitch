@@ -29,7 +29,7 @@ Useful links One-Pager for Business Central
   - [aka.ms/BusinessCentralAddOnApps][136]             .. Add-On Apps の説明
   - [aka.ms/BusinessCentralConnectApps][137]           .. Connect Apps の説明
   - [aka.ms/BusinessCentralEmbedApps][138]             .. Embed Apps の説明
-- [aka.ms/bclearn (Microsoft Learn)][141]              .. BC の初級/中級/上級レベルごとのラーニングパスがある
+- [aka.ms/bclearn (Microsoft Learn)][141]              .. 初級/中級/上級ごとのラーニングパス
 - [aka.ms/ReadyToGoOnlineLearning][142]                .. [旧 DLP][301] のトレーニング資料が残っている
 - [youtube.com - Business Central][143]                .. 操作説明の YouTube プレイリスト
 - [partner.microsoft.com/training/assets][144]         .. 学習コンテンツへのリンク集
